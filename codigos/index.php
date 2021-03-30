@@ -1,13 +1,3 @@
-<?php
-require __DIR__ . '/../../fullstackphp/fsphp.php';
-fullStackPHPClassName("03.11 - Interação com URLs");
-
-/*
- * [ argumentos ] ?[&[&][&]]
- */
-fullStackPHPClassSession("argumentos", __LINE__);
-
-
 /*
  * Olá, um primeiro programa mostrando criação de variaveis, operadores, estruturas de controle
  * array e demais comandos de saída.
